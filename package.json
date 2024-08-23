@@ -31,5 +31,16 @@
     "fmt": "prettier -w .",
     "lint": "prettier --check .",
     "build": "make"
-  }
+  },
+  "keywords": [
+    "style-text",
+    "text-formatting",
+    "color-codes",
+    "ansi-escape-codes",
+    "font-styles",
+    "bright-colors",
+    "foreground-colors",
+    "background-colors",
+    "text-effects"
+  ]
 }
